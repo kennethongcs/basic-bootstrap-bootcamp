@@ -1,3 +1,26 @@
-body{
-  background-color:pink;
+body {
+  background-color: white;
+}
+.title {
+  text-align: center;
+}
+input {
+  display: inline;
+  height: 40px;
+}
+.button {
+  position: absolute;
+  right: 43px;
+  width: 40px;
+  height: 40px;
+}
+.articles-container {
+  text-align: center;
+  margin-top: 20px;
+}
+.articles {
+  margin-bottom: 30px;
+}
+.article-title {
+  font-size: 1.25rem;
 }
